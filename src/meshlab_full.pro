@@ -30,7 +30,7 @@ SUBDIRS       = common \
                 meshlabplugins/filter_csg \
                 meshlabplugins/filter_dirt \
                 meshlabplugins/filter_fractal \
-                meshlabplugins/filter_func \
+#               meshlabplugins/filter_func \
                 meshlabplugins/filter_img_patch_param \
                 meshlabplugins/filter_isoparametrization \
                 meshlabplugins/filter_layer \
@@ -48,7 +48,7 @@ SUBDIRS       = common \
                 meshlabplugins/filter_select \
                 meshlabplugins/filter_sketchfab \
                 meshlabplugins/filter_ssynth \
-                meshlabplugins/filter_texture \
+#               meshlabplugins/filter_texture \
                 meshlabplugins/filter_trioptimize \
                 meshlabplugins/filter_unsharp \
                 meshlabplugins/filter_voronoi \
@@ -73,7 +73,7 @@ SUBDIRS       = common \
 # Sample Plugins
                 sampleplugins/sampleedit \
                 sampleplugins/samplefilter \
-                sampleplugins/samplefilterdyn \     
+                sampleplugins/samplefilterdyn \
                 sampleplugins/filter_createiso \
                 sampleplugins/filter_geodesic \
 				sampleplugins/sample_filtergpu \
